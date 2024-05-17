@@ -1,4 +1,4 @@
-'https://valexy12.jfrog.io/'
+def registry = 'https://valexy12.jfrog.io/'
 pipeline {
     agent {
         node {
